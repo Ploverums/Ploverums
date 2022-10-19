@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Noah, and I go by Ploverums online.
+I'm a developer who specializes in Javascript and C#. I've worked on multiple Unity game projects that have won state and national awards, and also work as a Javascript coding instructor. Currently, I'm working as the Curriculum Director at LingHacks V, the world's first Computational Linguistics hackathon. I hope you enjoy my work on display here!
 <!--
 **Ploverums/Ploverums** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
